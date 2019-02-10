@@ -12,7 +12,7 @@ def argue
   
 end
 
-def greeting "Hi there"
+def greeting "Hi there, "
 name = "Taylor!"
 end
 
