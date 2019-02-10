@@ -6,7 +6,7 @@ def assign_variable("Taylor")
   
 end
 
-def argue ("given 1")
+def argue (1)
   
 end
 
