@@ -10,8 +10,8 @@ def argue ("I am right and you are wrong!")
   
 end
 
-def greeting ("Hi there")
-
+def greeting "Hi there"
+name = "Taylor"
 end
 
 def return_a_value ("Nice")
