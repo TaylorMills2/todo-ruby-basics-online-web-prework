@@ -10,7 +10,7 @@ def argue ("I am right and you are wrong!")
   
 end
 
-def greeting ("Taylor")
+def greeting ("Hi there")
 
 end
 
